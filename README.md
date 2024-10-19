@@ -1,4 +1,4 @@
-# Helloooooooo!!!!!!!!!!! 👋
+# Hello! 👋
 
 My name is Ryan Kimura, I'm an ⚡ Electrical Engineer, 💻 Full Stack Developer and 🤖 Machine Learning Engineer.
 
