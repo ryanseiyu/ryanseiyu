@@ -2,11 +2,6 @@
 
 My name is Ryan Kimura, I'm an ⚡ Electrical Engineer, 💻 Full Stack Developer and 🤖 Machine Learning Engineer.
 
-I love playing DotA 2, one of the most challenging and intense games out there. I'm also passionate about continuously learning and pushing the boundaries of conventional thinking. 
-My purpose is for 🌳 nature and 🌱 nature only, and this is 🐱 Neko.
-
-<img src="https://i.imgur.com/xuJpmEx.jpeg" alt="Cat" width="150"/>
-
 ## Projects
 
 ### Cohere-VSC-Extension 
